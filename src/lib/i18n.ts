@@ -278,7 +278,7 @@ payoutNotes: 'Payout notes...',
     changePhoneNumber: 'Beddel lambarka telefoonka',
 
     // Admin Dashboard
-    adminDashboard: 'Koobanka Admin-ka',
+    adminDashboard: 'Koobista Admin-ka',
     dashboardDescription: 'Dulmar ku saabsan kooxaha, lacag-bixinnada, xubnaha aan bixin, iyo dadka lacagta qaadanaya.',
     totalGroups: 'Wadarta kooxaha',
     activeGroups: 'Kooxaha shaqeynaya',
@@ -322,7 +322,7 @@ payoutNotes: 'Payout notes...',
     partial: 'Qayb ahaan',
     late: 'Dib u dhacay',
     corrected: 'La saxay',
-    received: 'La helay',
+    received: 'La siiyay',
 
     // Members
     groupMembers: 'Xubnaha kooxda',
@@ -339,7 +339,7 @@ payoutNotes: 'Payout notes...',
 
     // Rounds
     generateRounds: 'Samee Wareegyada',
-    roundNumber: 'Lambarka wareegga',
+    roundNumber: 'wareegga',
     dueDate: 'Taariikhda bixinta',
     receiver: 'Qofka qaadanaya',
     expectedTotal: 'Wadarta la filayo',
@@ -382,8 +382,8 @@ payoutNotes: 'Payout notes...',
     unpaidMembersReport: 'Warbixinta xubnaha aan bixin',
     roundReport: 'Warbixinta wareegyada',
     payoutReport: 'Warbixinta lacag-qaybinta',
-    exportCsv: 'U dhoofi CSV',
-    exportPdf: 'U dhoofi PDF',
+    exportCsv: 'soo daji CSV',
+    exportPdf: 'soo daji file PDF',
 
     // Member dashboard
     memberDashboard: 'Koobanka Xubinta',
